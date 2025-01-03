@@ -1,0 +1,4 @@
+data: data storage
+movies.json: movie details (initial seed data)
+user_ratings.json: user ratings (stored persistently)
+ 

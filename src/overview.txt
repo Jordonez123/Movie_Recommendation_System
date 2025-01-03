@@ -1,0 +1,7 @@
+src: source code
+__init__.py: marks src as a package
+main.py: main entry point of the application
+utils.py: utility functions (e.g., reading/writing files, sorting)
+recommend.py: logic for recommeding movies
+search.py: logic for searching movies by genre or other criteria
+ratings.py: logic for handling user ratings
