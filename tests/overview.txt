@@ -1,0 +1,4 @@
+tests: unit tests
+test_recommend.py: tests for recommendation logic
+test_search.py: tests for search functionality
+test_ratings.py: tests for ratings functionality

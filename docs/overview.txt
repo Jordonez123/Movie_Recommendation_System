@@ -1,0 +1,3 @@
+docs: documentation
+README.md: overview of the project
+requirements.md: required features or project specs
